@@ -1,0 +1,20 @@
+{
+	"Dinner": {
+		"Protein": [
+			"Beef",
+			"Chicken",
+			"Halibut",
+			"Lamb",
+			"Pork",
+			"Salmon"
+		],
+		"Veggie": [
+			"Asparagus",
+			"Broccoli",
+			"Brussel Sprouts",
+			"Fingerling Potatoes",
+			"Something Different",
+			"Salad"
+		]
+	}
+}
