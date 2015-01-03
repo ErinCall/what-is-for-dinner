@@ -1,6 +1,6 @@
 {
   "name": "what-is-for-dinner",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "helps me pick dinner",
   "main": "index.js",
   "bin": {
