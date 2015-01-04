@@ -3,18 +3,15 @@
 		"Protein": [
 			"Beef",
 			"Chicken",
-			"Halibut",
 			"Lamb",
-			"Pork",
-			"Salmon"
+			"Pork"
 		],
 		"Veggie": [
 			"Asparagus",
 			"Broccoli",
 			"Brussel Sprouts",
-			"Fingerling Potatoes",
-			"Something Different",
-			"Salad"
+			"Rice",
+			"Collard Greens"
 		]
 	}
 }
