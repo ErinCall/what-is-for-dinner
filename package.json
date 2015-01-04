@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "helps me pick dinner",
   "main": "index.js",
+  "repository": "git@git.andrewlorente.com:AndrewLorente/what-is-for-dinner.git",
   "bin": {
     "wifd": "./index.js"
   },
